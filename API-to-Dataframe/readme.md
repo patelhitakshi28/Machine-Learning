@@ -1,3 +1,5 @@
+This is my final version after merging both changes.
+
 # Fetching data using API. 
 
 1. Here in this i have used TMDB movie's API to fetch the movie data. 
